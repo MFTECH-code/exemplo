@@ -1,0 +1,2 @@
+<!-- DTD = Document Type Definition, define o tipo de página que está sendo carregada -->
+<!Doctype html>
